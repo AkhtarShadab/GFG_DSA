@@ -2,7 +2,7 @@
 
 This repository contains C++ solutions for classic data structure and algorithm questions from the GeeksforGeeks DSA (Data Structures and Algorithms) practice course and the explore section.
 
-Course Link: [DSA - GeeksforGeeks](https://practice.geeksforgeeks.org/batch/dsa-4)
+Course Link: [DSA - GeeksforGeeks](https://practice.geeksforgeeks.org/courses/dsa-self-paced?source=google&medium=cpc&device=c&keyword=gfg%20dsa%20course&matchtype=b&campaignid=19600556801&adgroup=145014226269&gad=1&gclid=CjwKCAjwxOymBhAFEiwAnodBLHYcjzfKKr1y5qFRKY9pxYXLqwtq48W4BhCjWY4TxCaV6E-iUphxNRoCyewQAvD_BwE)
 Explore Link: [GFG Explore](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions)
 
 ## About

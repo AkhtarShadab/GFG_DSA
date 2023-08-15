@@ -50,9 +50,3 @@ Let's learn and grow together through collaborative coding!
 ## Disclaimer
 
 The solutions provided in this repository are intended for educational purposes. They are not intended for direct submission in coding assessments or competitive programming without understanding the concepts involved. Use these solutions as a reference and try to implement your own solutions first.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
-Happy coding!
